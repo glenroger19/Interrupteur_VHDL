@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Apr 23 16:04:53 2024
+# Process ID: 3076
+# Current directory: C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/Interrupteur
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16260 C:\Users\glenn\OneDrive\Bureau\Dossier Glen\2A\Semestre 2\VHDL\Interrupteur\TP1.xpr
+# Log file: C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/Interrupteur/vivado.log
+# Journal file: C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/Interrupteur\vivado.jou
+# Running On: Lenovo, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17059 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/Interrupteur/TP1.xpr}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+save_project_as Interrupteur {C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/Interrupteur} -force

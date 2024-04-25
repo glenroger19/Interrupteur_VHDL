@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/TP1/TP1.srcs/sources_1/new/tp1_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tp1_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/TP1/TP1.srcs/sim_1/new/swled_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'swled_tb'
